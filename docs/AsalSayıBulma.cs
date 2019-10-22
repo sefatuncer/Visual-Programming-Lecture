@@ -1,6 +1,3 @@
-## Asal Sayı Bulma C# Kodu
-
-```
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -64,4 +61,3 @@ namespace Deneme
   }
  }
 }
-```

@@ -14,7 +14,7 @@ Sınavda öğrenciler tüm işlenenlerden sorumludur.</br>
 vb.
 
 Kodlarda istenilmeyen bölümler veya hatalar olabilir.</br>
-Düzeltme konusunda uygulamayı fork edip, bana Pull Request yaparak düzeltme gönderirseniz veya ekleme yapmak isterseniz istek gönderebilirsiniz.</br>
+Uygulamayı fork edip bana Push Request yaparak düzeltme gönderirseniz veya ekleme yapmak isterseniz istek gönderebilirsiniz.</br>
 Uygun gördüğüm kısımları inceleyip buraya ekleyebilirim.</br>
 
 **Hepinize başarılar..**

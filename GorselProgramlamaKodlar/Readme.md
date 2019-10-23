@@ -1,21 +1,21 @@
 ## Görsel Programlama
 
-Görsel programlama dersi ile ilgili C# kodları yukarıda verilmiştir.
-Sınavda öğrenciler tüm işlenenlerden sorumludur.
+Görsel programlama dersi ile ilgili C# kodları yukarıda verilmiştir.</br>
+Sınavda öğrenciler tüm işlenenlerden sorumludur.</br>
 
-- İşlenen Konular
-**1. C# temel komutlar** </br>
-**2. Diziler**
-**3. Listeler - Generic Yapılar**
-**4. String foksiyonları**
-**5. Class**
-**6. Kalıtım (Inheritance)**
-**7. Interface (Arayüz)**
+**- _İşlenen Konular_**</br>
+**1. C# temel komutlar**</br>
+**2. Diziler**</br>
+**3. Listeler - Generic Yapılar**</br>
+**4. String foksiyonları**</br>
+**5. Class**</br>
+**6. Kalıtım (Inheritance)**</br>
+**7. Interface (Arayüz)**</br>
 vb.
 
-Kodlarda istenilmeyen bölümler veya hatalar olabilir.
-Düzeltme konusunda uygulamayı fork edip, bana Pull Request yaparak düzeltme gönderirseniz veya ekleme yapmak isterseniz istek gönderebilirsiniz.
-Uygun gördüğüm kısımları inceleyip buraya ekleyebilirim.
+Kodlarda istenilmeyen bölümler veya hatalar olabilir.</br>
+Düzeltme konusunda uygulamayı fork edip, bana Pull Request yaparak düzeltme gönderirseniz veya ekleme yapmak isterseniz istek gönderebilirsiniz.</br>
+Uygun gördüğüm kısımları inceleyip buraya ekleyebilirim.</br>
 
 **Hepinize başarılar..**
 

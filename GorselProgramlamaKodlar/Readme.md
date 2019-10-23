@@ -3,14 +3,14 @@
 Görsel programlama dersi ile ilgili C# kodları yukarıda verilmiştir.
 Sınavda öğrenciler tüm işlenenlerden sorumludur.
 
-İşlenen Konular
-**C# temel komutlar**
-**Diziler**
-**Listeler - Generic Yapılar**
-**String foksiyonları**
-**Class**
-**Kalıtım (Inheritance)**
-**Interface (Arayüz)**
+- İşlenen Konular
+**1. C# temel komutlar** </br>
+**2. Diziler**
+**3. Listeler - Generic Yapılar**
+**4. String foksiyonları**
+**5. Class**
+**6. Kalıtım (Inheritance)**
+**7. Interface (Arayüz)**
 vb.
 
 Kodlarda istenilmeyen bölümler veya hatalar olabilir.

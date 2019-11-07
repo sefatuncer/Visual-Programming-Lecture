@@ -18,4 +18,3 @@ Uygulamayı fork edip bana Push Request yaparak düzeltme gönderirseniz veya ek
 Uygun gördüğüm kısımları inceleyip buraya ekleyebilirim.</br>
 
 **Hepinize başarılar..**
-

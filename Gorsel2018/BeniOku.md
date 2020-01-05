@@ -2,7 +2,7 @@ Arkadaşlar merhaba,
 
 Görsel Programlama final sınavında, burada bulunan ve derste işlemiş olduğumuz kodlardan sorumlusunuz.
 
-Sınavda,
+Soruları henüz hazırlamadım fakat sınavda;
 
 - Class (Sınıflar)
   - Sınıflara ve özelliklerine iyi çalışın. Kalıtım vs. bilmeniz gerekir.
@@ -11,6 +11,6 @@ Sınavda,
   - Klavye kontrolü uygulamaları
   - Timer uygulamaları
   - vs.
-- Basit sözel sorular da gelebilir.
+- Vize öncesi ve sonrasından basit sözel sorular da gelebilir.
   
-Ekstra 1 adet kısa sınav sorusu sorulacaktır. Kısa sınav sorusu vizeye kadar olan kısımdan sorulacaktır. Finalden ayrı değerlendirilecektir.
+Ekstra olarak kısa sınav sorusu sorulacaktır. Kısa sınav sorusu vizeye kadar olan kısımdan sorulacaktır. Finalden ayrı değerlendirilecektir.

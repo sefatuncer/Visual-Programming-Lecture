@@ -1,0 +1,43 @@
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\bin\Debug\Gorsel2018.exe.config
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\bin\Debug\Gorsel2018.exe
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\bin\Debug\Gorsel2018.pdb
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.csprojResolveAssemblyReference.cache
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.Form1.resources
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.Properties.Resources.resources
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.csproj.GenerateResource.Cache
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.exe
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.pdb
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.HesapMakinesi.resources
+c:\users\bmuh_lab\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.Zamanlayici.resources
+C:\Users\BMUH_LAB\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.ListeAsalSayi.resources
+C:\Users\BMUH_LAB\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.HareketEtme.resources
+C:\Users\BMUH_LAB\documents\visual studio 2015\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.IlerlemeTimer.resources
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\bin\Debug\Gorsel2018.exe.config
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\bin\Debug\Gorsel2018.exe
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\bin\Debug\Gorsel2018.pdb
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.csprojAssemblyReference.cache
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.Form1.resources
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.HareketEtme.resources
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.HesapMakinesi.resources
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.IlerlemeTimer.resources
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.ListeAsalSayi.resources
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.Properties.Resources.resources
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.Zamanlayici.resources
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.csproj.GenerateResource.cache
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.csproj.CoreCompileInputs.cache
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.exe
+C:\Users\Tncr\Documents\Visual Studio 2010\Projects\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.pdb
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\bin\Debug\Gorsel2018.exe.config
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\bin\Debug\Gorsel2018.exe
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\bin\Debug\Gorsel2018.pdb
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.csprojAssemblyReference.cache
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.Form1.resources
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.HareketEtme.resources
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.HesapMakinesi.resources
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.IlerlemeTimer.resources
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.ListeAsalSayi.resources
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.Properties.Resources.resources
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.Zamanlayici.resources
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.csproj.GenerateResource.cache
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.exe
+D:\OKUL_ÖNEMLİ\Dersler_Lisans\Görsel Programlama\Uygulamalar\Gorsel2018\Gorsel2018\obj\Debug\Gorsel2018.pdb

@@ -11,4 +11,4 @@ Sınavda,
   - Timer uygulamaları
   - vs.
   
-Ekstra 1 adet kısa sınav sorusu sorulacaktır. Ayrı değerlendirilecektir.
+Ekstra 1 adet kısa sınav sorusu sorulacaktır. Kısa sınav sorusu vizeye kadar olan kısımdan sorulacaktır. Finalden ayrı değerlendirilecektir.

@@ -1,3 +1,10 @@
+/*
+ Sınıf
+ Kalıtım
+ Abstract Class
+ Interface
+*/
+
 using System;
 using System.Collections.Generic;
 
